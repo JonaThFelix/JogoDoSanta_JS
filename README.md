@@ -1,4 +1,4 @@
-#Jogo da Cobrinha temático e como forma de homenagem ao tricolor do nordeste, o Santa Cruz FC
+#Jogo da Cobrinha temático e como forma de homenagem ao Santa Cruz.
 
 
 
